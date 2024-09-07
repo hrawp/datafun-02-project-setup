@@ -3,7 +3,7 @@
 
 ''' This module provides functions for creating a series of project folders. 
 There are 5 functions featured in the project.  
-Function 4 uses a inervative wait time increase onesecond each time the while loops runs.
+Function 4 uses a iterative wait time increase one second each time the while loops runs.
 Function 5 is interactive how the path is created with as is, underscores for spaces, lowercase, or both options applied.
 '''
 
